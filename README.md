@@ -1,5 +1,5 @@
 <h1>Olá! 🖐🏽 | Seja Bem-vindo (a) ao meu Github!</h1>
-<h3>Sou o Ygor ferreira 👦🏽, tenho 1️⃣8️⃣ anos...</h3>
+<h3>Sou o Ygor ferreira 👦🏽, tenho 1️⃣8️⃣ anos... e ⤵</h3>
 
 <p> - 💻 Atualmente estou trabalhando como  Programador de Sistemas da Informação na CPTM.
 <br>
@@ -17,3 +17,8 @@
 
 <a href = "mailto:ygorferreiradonascimentosilva@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ygorferreiradonascimentosilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+
+<a href="https://github.com/Ygorfnascimento">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygorfnascimento&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ygorfnascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
