@@ -3,7 +3,7 @@
 
 <p> - 💻 Atualmente, sou Programador de Sistemas de Informação na CPTM.
 <br>
-- 📘 Estou estudando Desenvolvimento de Sitemas, no Senai, Mariano Ferraz.
+- 📘 Estou estudando Desenvolvimento de Sistemas, no Senai, Mariano Ferraz.
 <br>
 - 🎯 Estou sempre em busca de aprimorar meus conhecimentos e habilidades, além de aprender sobre novas tecnologias. </p> <!-- Fim da apresentação --!>
 
