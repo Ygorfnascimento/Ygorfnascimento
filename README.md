@@ -15,6 +15,9 @@
 <h2>📚 Cursos Complementares do Senai: </h2> <!-- Início dos projetos --!>
 <ul>
    <li> Interfaces Web com Bootstrap: ➡ <a href="https://ygorfnascimento.github.io/Projeto-Med/" target="_blank"> Projeto Med</a> </li>
+   <li> Microsoft Power BI: ➡ <a href="https://app.powerbi.com/view?r=eyJrIjoiNmQyYTI5MjktZmM3ZC00NWNkLWI1ZmUtYjgyMTI0ZGNhZDA0IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9" target="_blank"> Projeto BI</a> </li>
+   <li> Microsoft Power Platform Fundamentals: ➡ <a href="https://make.powerapps.com/e/eeb3c23a-a793-e87d-98f7-4c5f2f5527ec/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2F868f887c-976d-4a05-ae2a-7bf64374cea6" target="_blank"> Projeto integrado ao Power BI</a> </li>
+   
 </ul> <!-- Fim dos projetos --!>
 
 <h2>📞 Meus Contatos: </h2> <!-- Início dos contatos --!>
