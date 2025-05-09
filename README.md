@@ -33,16 +33,11 @@
   </li>
 </ul>
 
-<!-- Início dos contatos -->
-<h2>📞 Meus Contatos: </h2> 
-<a href="mailto:ygorferreiradonascimentosilva@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Ygorferreiradonascimentosilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-
 <!-- Início das estatísticas -->
 <h2>😸 Minhas estatísticas do Github: </h2> 
 <p>
-  <img align="left" alt="GitHub Stats 1" height="170" style="padding-right: 10px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Ygorfnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Stats 2" height="170" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygorfnascimento&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9" />
+  <img align="left" alt="GitHub Stats 1" height="170" style="padding-right: 10px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Ygorfnascimento&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats 2" height="170" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygorfnascimento&theme=radical&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9" />
 </p> 
 
 <!-- Footer com efeito -->
